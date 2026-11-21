@@ -5,9 +5,8 @@ Sales & Revenue Analytics Dashboard – Excel
 
 ## Dataset used
 - <a Href= "https://github.com/parthdidore/Sales-Revenue-Analytics-Excel/blob/main/Sales_Revenue_Analytics_Dataset.xlsx">Dataset view
-- Dataset used
 
-- dashborad <a href="https://github.com/parthdidore/Sales-Revenue-Analytics-Excel/blob/main/Sales_Revenue_Analytics_Dataset.pdf">dashborad view
+- dashborad view <a href="https://github.com/parthdidore/Sales-Revenue-Analytics-Excel/blob/main/Sales_Revenue_Analytics_Dataset.pdf">dashborad view
 
 Project Overview
 
